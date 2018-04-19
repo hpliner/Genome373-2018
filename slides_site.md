@@ -7,4 +7,4 @@
 
 - [Week 3](/Genome373-2018/slides_site/week3.pdf)
 
-- [Week 4](/Genome373-2018/slides_site/week4.pdf)
+- [Week 4](http://hpliner.github.io/Genome373-2018/slides_siteweek4.pdf)

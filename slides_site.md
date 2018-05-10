@@ -12,3 +12,5 @@
 - [Week 5](http://hpliner.github.io/Genome373-2018/slides_site/week5.pdf)
 
 - [Week 6](http://hpliner.github.io/Genome373-2018/slides_site/week6.pdf)
+
+- [Week 7](http://hpliner.github.io/Genome373-2018/slides_site/week7.pdf)
